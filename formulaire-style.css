@@ -1,0 +1,38 @@
+body{
+    background-image: url("OIP.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 1%;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: larger;
+}
+
+
+ 
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgba(31, 172, 207, 0.705);
+    text-align: center;
+    font-weight: 700;
+    text-shadow: 8px 8px 4px rgba(65, 56, 8, 0.274);
+}
+input
+{
+    width: 15%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: beige;
+    border-radius: 6px;
+    border: rgb(218, 185, 136);
+    box-sizing: border-box;
+    }
+input[type="submit"]
+{
+    background-color: rgb(32, 175, 175);
+    font-weight: bold;
+    cursor: pointer;
+
+}
